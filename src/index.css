@@ -1,26 +1,9 @@
-.App {
-    background:coral;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
+body { 
+    padding: 50px;
+    background-color: coral;
+    font-family: sans-serif;
 }
-
-.btn{
-    background: pink;
-    margin: 20px;
-}
-
-.add-btn{
-    background: lightblue;
-    width: 40px;
-    height: 40px;
-}
-.app-title{
-    text-align: center;
-    color: lightblue;
-    font-size: 70px;
-}
-.container{
-    border: 5px solid pink;
-    border-radius: 25px;
-
+#container { 
+    display: flex;
+    justify-content: flex;
 }
